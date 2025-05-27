@@ -24,6 +24,9 @@ Enhances focus and performance by reducing time spent navigating the Project win
    Use the Folder Tabs window to rename, reorder, recolor, or re-icon your tabs.
    Right-click inside the window to Collapse All, Expand All, or Clear All.
 
+![image](https://github.com/user-attachments/assets/16ac2844-31a9-424d-8864-f140f77d29c2)
+
+
 ## 🔧 Notes
 
 - This tool is still new and may need improvements.
