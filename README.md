@@ -26,6 +26,10 @@ Enhances focus and performance by reducing time spent navigating the Project win
 
 ![image](https://github.com/user-attachments/assets/16ac2844-31a9-424d-8864-f140f77d29c2)
 
+## 🎥 Demo
+
+Watch a short demo on how it works:  
+[![Unity Pin Folders Demo](https://img.youtube.com/vi/uBBj96r6N-w/0.jpg)](https://www.youtube.com/watch?v=uBBj96r6N-w)
 
 ## 🔧 Notes
 
